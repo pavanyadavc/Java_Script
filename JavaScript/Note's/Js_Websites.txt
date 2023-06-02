@@ -1,0 +1,12 @@
+JS_Syllabus:-- https://youtube.com/playlist?list=PLzdWZT-ZJD0_IqetEOq2FxjQucklQi9KG
+
+JS Top 25 Interview Quations:-- https://youtu.be/OEQpRTXfxoo
+
+JS_Projects:-- https://youtube.com/playlist?list=PLNCevxogE3fgy0pAzVccadWKaQp9iHspz
+
+
+websites:
+=========
+w3_School:-- https://www.w3schools.com/js/default.asp
+
+java t point:-- https://www.javatpoint.com/javascript-tutorial
